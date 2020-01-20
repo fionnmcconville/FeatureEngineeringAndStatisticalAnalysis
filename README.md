@@ -1,4 +1,4 @@
-# FeatureEngineeringAndStatisticalAnalysis
+# Feature Engineering And Statistical Analysis
 This project was from my CSC3060 module (Artificial Intelligence and Data Analytics). It is the first assignment in a 2 part project. 
 
 There were 3 parts to this project:
